@@ -366,7 +366,7 @@ body {
   transition: 800ms;
 }
 .services__button-link:hover {
-  background: #4a50a8 url(/img/pixel-1.png);
+  background: #4a50a8 url(../img/pixel-1.png);
   transition-delay: 800ms;
   animation: animatebtn 800ms steps(8) forwards;
   color: #b3b2b2;
